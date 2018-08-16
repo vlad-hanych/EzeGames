@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Eze Games</string>
+    <string name="phone_error">Invalid phone!</string>
+    <string name="main_string">
+        Our service is subscription base game library for Android and iOS smartphones
+        which get regular updates.
+        "\n\n"
+        Service charge for plan with autorenewal is 2.44 daily
+        (Including VAT + SD + SC)
+        "\n\n"
+        Data charges may apply.
+    </string>
+    <string name="to_get_full_service_access_text">To get full service access enter</string>
+    <string name="your_mobile_number_text">your mobile number</string>
+    <string name="continue_text">Continue</string>
+    <string name="this_is_a_subscription_service_text">This is a subscription service.  By clicking on «continue» button you are   agree to enter a subscription service</string>
+    <string name="telephone_number_edtxt_hint">+880 0000000000</string>
+</resources>
